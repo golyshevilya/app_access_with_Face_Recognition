@@ -23,6 +23,6 @@
 
 ## Авторы
 * [Голышев Илья](https://github.com/golyshevilya)
-* [Туркин Сергей] (https://github.com/SergDinamo14)
+* [Туркин Сергей](https://github.com/SergDinamo14)
 * [Лащенов Евгений](https://github.com/golyshevilya)
 * [Цепцов Даниил](https://github.com/golyshevilya)
