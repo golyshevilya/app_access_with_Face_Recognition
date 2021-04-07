@@ -1,0 +1,9 @@
+PyQt5
+key-generator
+psycopg2
+requests
+base64
+winreq
+keras
+opencv-python
+numpy
