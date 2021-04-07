@@ -1,6 +1,6 @@
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/SergDinamo14/app_access_with_Face_Recognition?style=for-the-badge"> <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/SergDinamo14/app_access_with_Face_Recognition?style=for-the-badge"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/SergDinamo14/app_access_with_Face_Recognition?style=for-the-badge">
-
 # Система обеспечения доступа к программным компонентам за счёт классификации лиц с использованием нейронных сетей
+
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/SergDinamo14/app_access_with_Face_Recognition?style=for-the-badge"> <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/SergDinamo14/app_access_with_Face_Recognition?style=for-the-badge"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/SergDinamo14/app_access_with_Face_Recognition?style=for-the-badge">
  
 Система распознавания лиц при помощи нейронной сети. Данная система нацелена на обеспечение безопасности необходимых программ и компонентов за счёт классификации лиц и проверки доступа. Основным назначением разработки системы распознавания лиц является осуществления безопасного доступа к определённым программам или компонентам.
 
